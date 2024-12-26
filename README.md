@@ -16,7 +16,6 @@
 - 👯 I’m looking to collaborate on **Java, Linux**
 - 🤝 I’m looking for help with **Python, Deep Learning**
 - 📫 How to reach me: **chandanjaincj93@gmail.com**
-- 📄 Know about my experiences: [Resume](https://www.dropbox.com/scl/fi/bzckhvbhvwipqs3910es3/resume.docx?rlkey=19dy6drk3xqgjotrz7isjijix&st=qj48d5kb&dl=0)
 - ⚡ Fun fact: **Learning through projects, tools, and group decision-making to build a common community**
 
 <h3 align="left">Connect with me:</h3>
