@@ -1,73 +1,74 @@
-<h1 align="center">Hi 👋, I'm CHANDAN JAIN H P</h1>
-<h3 align="center">A passionate developer from India 🇮🇳</h3>
+# 👋 Hi, I'm Chandan Jain HP
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandanjainhp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+🎓 MCA Student @ RV Institute of Technology & Management  
+🌐 Aspiring Full Stack Developer | Python & MERN Stack Enthusiast  
+📍 Bengaluru, India  
+📫 [Email](mailto:chandanJainhp93@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chandan-jain-h-p-bb78b4200) | [GitHub](https://github.com/chandanjainhp)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chandanjainhp" alt="GitHub Trophy" />
-  </a>
-</p>
+---
 
-- 🔭 I’m currently working on **Python Machine Learning**
-- 🌱 I’m currently learning **YOLO Architecture, Java**
-- 👯 I’m looking to collaborate on **Java, Linux**
-- 🤝 I’m looking for help with **Python, Deep Learning**
-- 📫 How to reach me: **chandanjaincj93@gmail.com**
-- ⚡ Fun fact: **Learning through projects, tools, and group decision-making to build a common community**
+## 🧠 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/chandanjainhp" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/chandan-jain-h-p-bb78b4200" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+I'm a passionate developer aiming to contribute meaningfully to dynamic organizations while growing professionally. I value teamwork, problem-solving, and adaptability, and I'm always eager to learn and evolve through hands-on experience.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/35/000000/html-5--v1.png" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/35/000000/css3.png" alt="CSS3"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/35/000000/javascript--v1.png" alt="JavaScript"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/35/000000/python.png" alt="Python"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/35/000000/git.png" alt="Git"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/35/000000/github.png" alt="GitHub"/>
-  </a>
-  <a href="https://www.canva.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/cute-clipart/35/000000/canva.png" alt="Canva"/>
-  </a>
-</p>
+---
 
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanjainhp&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+## 💼 Experience
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanjainhp&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+### Software Developer Intern – *Techciti Software Pvt Ltd* (Nov 2024 – Dec 2024)
+- Built a **Lung Cancer Prediction System** using Python, Django & Logistic Regression.
+- Implemented PDF report generation using ReportLab.
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandanjainhp" alt="GitHub Streak" />
-</p>
+### Full Stack Developer Intern – *Vectorfab Private Limited* (Jan 2022 – Jun 2022)
+- Created a data-driven web app using **JavaScript, HTML, CSS, and MySQL**.
+- Deployed on AWS for remote accessibility.
+
+---
+
+## 🚀 Projects
+
+### 🔥 Fire Detection System with CNN & Email Alerts
+- Real-time fire detection using a custom **CNN model** built with TensorFlow & Keras.
+- Integrated an **email alert system** for emergency notifications.
+
+### 📊 Full-Stack Teacher Management System (MERN Stack)
+- Web platform for managing academic records using **MongoDB, Express.js, React.js, Node.js**.
+- Features: **JWT auth**, **role-based access**, **CSV data upload**, **real-time UI feedback**.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Smart India Hackathon 2024 Finalist** – Selected for developing government tech solutions.
+- 🥈 **Runner-up**, Hackathon @ Bengaluru City University (INNOVEX 2025)
+- 🏆 **Winner**, IT Quiz @ BMSIT (Technix 6.0) and SIT (Zerone Fest)
+
+---
+
+## 📜 Certifications
+
+- 🎖 **Rajya Puraskar Award**, Scouts & Guides Karnataka  
+- 🎓 Completed **JAVA DSA Course** (VTU, 2024)
+
+---
+
+## 💡 Skills
+
+- **Languages & Tools**: JavaScript, Python, Node.js, MySQL, MongoDB, React, Django
+- **Soft Skills**: Teamwork, Time Management, Adaptability, Problem Solving
+
+---
+
+## 🌍 Languages Known
+
+English | Kannada | Hindi
+
+---
+
+## 🎯 Hobbies
+
+Exploring new places 🌍 | Watching documentaries 🎬
+
+---
+
+🔗 *Let's connect and build something impactful together!*
