@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Chandan Jain HP
 
 🎓 MCA Student @ RV Institute of Technology & Management  
-🌐 Aspiring Full Stack Developer | Python & MERN Stack Enthusiast  
+🌐 Aspiring  Developer 
 📍 Bengaluru, India  
 📫 [Email](mailto:chandanJainhp93@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chandan-jain-h-p-bb78b4200) | [GitHub](https://github.com/chandanjainhp)
 
