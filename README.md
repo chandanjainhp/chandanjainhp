@@ -2,7 +2,7 @@
 
 <div align="center">
   
-📍 Bengaluru, India | 📧 iamchandanjainhp@gmail.com | 📱 7975703568
+📍 Bengaluru, India | 📧 iamchandanjainhp@gmail.com | 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chandan-jain-h-p-bb78b4200)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/chandanjainhp)
