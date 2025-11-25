@@ -20,7 +20,7 @@ Visit the live site: [Your GitHub Pages URL will be here]
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/chandanjainhp.git
+   git clone https://github.com/chandanjainhp/chandanjainhp.git
    ```
 
 2. Navigate to the project directory:
@@ -45,7 +45,7 @@ Visit the live site: [Your GitHub Pages URL will be here]
 2. Navigate to **Settings** → **Pages**
 3. Under "Source", select the **main** branch
 4. Click **Save**
-5. Your site will be published at `https://YOUR-USERNAME.github.io/chandanjainhp/`
+5. Your site will be published at `https://chandanjainhp.github.io/chandanjainhp/`
 
 ## 🛠️ Technologies Used
 

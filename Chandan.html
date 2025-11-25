@@ -5,127 +5,280 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="../assets/css/footer.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <title>About - Chandan Jain H.P</title>
 </head>
 
-<body>
-<nav class=" navbar navbar-expand-sm navbar-light bg-light">
-    <a class="navbar-brand" href="../views/Chandan.html">CHANDAN JAIN H.P</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="collapsibleNavbar">
-        <ul class="navbar-nav ">
-            <li class="nav-item ">
-                <a class="nav-link " href="https://h1lqo0csfcntxuvuoxnwyg.on.drv.tw/www.cJ/views/HOME.html">HOME</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link " href="https://h1lqo0csfcntxuvuoxnwyg.on.drv.tw/www.cJ/views/BLOG.html">BLOG</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link " href="https://h1lqo0csfcntxuvuoxnwyg.on.drv.tw/www.cJ/views/WORK.html">WORK</a>
-            </li>
+<body class="bg-gray-50">
+  <!-- Navigation -->
+  <nav class="bg-white shadow-sm">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between h-16">
+        <div class="flex items-center">
+          <a href="Chandan.html" class="text-xl font-bold text-gray-800">CHANDAN JAIN H.P</a>
+        </div>
+        <div class="hidden md:flex items-center space-x-8">
+          <a href="HOME.html" class="text-gray-600 hover:text-gray-900 font-medium">HOME</a>
+          <a href="Chandan.html" class="text-gray-600 hover:text-gray-900 font-medium">ABOUT</a>
+          <a href="WORK.html" class="text-gray-600 hover:text-gray-900 font-medium">WORK</a>
+          <a href="BLOG.html" class="text-gray-600 hover:text-gray-900 font-medium">BLOG</a>
+        </div>
+        <div class="md:hidden flex items-center">
+          <button id="mobile-menu-btn" class="text-gray-600 hover:text-gray-900" aria-label="Menu">
+            <i class="fas fa-bars text-xl"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="mobile-menu" class="hidden md:hidden bg-white border-t">
+      <div class="px-2 pt-2 pb-3 space-y-1">
+        <a href="HOME.html" class="block px-3 py-2 text-gray-600 hover:bg-gray-100">HOME</a>
+        <a href="Chandan.html" class="block px-3 py-2 text-gray-600 hover:bg-gray-100">ABOUT</a>
+        <a href="WORK.html" class="block px-3 py-2 text-gray-600 hover:bg-gray-100">WORK</a>
+        <a href="BLOG.html" class="block px-3 py-2 text-gray-600 hover:bg-gray-100">BLOG</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-12">About Me</h1>
+
+    <!-- Profile Section -->
+    <div class="grid md:grid-cols-2 gap-12 items-start mb-16">
+      <div>
+        <img class="rounded-lg shadow-lg w-full h-auto" src="../assets/img/cj2.png" alt="Chandan Jain" 
+             onerror="this.src='https://via.placeholder.com/500x500?text=Chandan+Jain+H.P'" />
+      </div>
+      <div class="space-y-4">
+        <h2 class="text-3xl font-bold text-gray-900">Chandan Jain H P</h2>
+        <div class="space-y-2 text-gray-700">
+          <p><i class="fas fa-birthday-cake mr-2 text-blue-600"></i> 11/06/2002</p>
+          <p><i class="fas fa-phone mr-2 text-blue-600"></i> 7975703568</p>
+          <p><i class="fas fa-map-marker-alt mr-2 text-blue-600"></i> 
+            3rd Cross, Behind B G S School<br>
+            <span class="ml-6">Vidyanagara, Hassan<br>
+            Karnataka - 573201</span>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Objective -->
+    <div class="bg-white rounded-lg shadow-md p-8 mb-12">
+      <h2 class="text-2xl font-bold text-gray-900 mb-4 flex items-center">
+        <i class="fas fa-bullseye mr-3 text-blue-600"></i> Objective
+      </h2>
+      <p class="text-gray-700 leading-relaxed">
+        I aspire to grow within a dynamic organization that allows me to apply my abilities while continuously learning and evolving. 
+        I believe that diverse efforts create a unified impact—different works make the same world sound. My goal is to contribute 
+        effectively toward shared success while achieving personal and professional fulfillment.
+      </p>
+    </div>
+
+    <!-- Education -->
+    <div class="bg-white rounded-lg shadow-md p-8 mb-12">
+      <h2 class="text-2xl font-bold text-gray-900 mb-6 flex items-center">
+        <i class="fas fa-graduation-cap mr-3 text-blue-600"></i> Education
+      </h2>
+      <div class="space-y-6">
+        <div class="border-l-4 border-blue-600 pl-4">
+          <h3 class="text-xl font-semibold text-gray-900">Masters of Computer Application</h3>
+          <p class="text-gray-700">RV Institute of Technology and Management, Bengaluru</p>
+          <p class="text-gray-600">2023 - Present | CGPA: 7.73</p>
+        </div>
+        <div class="border-l-4 border-blue-600 pl-4">
+          <h3 class="text-xl font-semibold text-gray-900">Bachelor of Science (PMCs)</h3>
+          <p class="text-gray-700">Government Science College (Autonomous), Hassan</p>
+          <p class="text-gray-600">2020 – 2023 | CGPA: 6.77</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Skills -->
+    <div class="bg-white rounded-lg shadow-md p-8 mb-12">
+      <h2 class="text-2xl font-bold text-gray-900 mb-6 flex items-center">
+        <i class="fas fa-code mr-3 text-blue-600"></i> Skills
+      </h2>
+      <div class="grid md:grid-cols-2 gap-8">
+        <div>
+          <h3 class="text-lg font-semibold text-gray-900 mb-3">Technical Skills</h3>
+          <div class="flex flex-wrap gap-2">
+            <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">JavaScript</span>
+            <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">Python</span>
+            <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">Node.js</span>
+            <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">MySQL</span>
+            <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">MongoDB</span>
+            <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">Linux</span>
+            <span class="px-3 py-1 bg-blue-100 text-blue-800 rounded-full text-sm">Ubuntu Server</span>
+          </div>
+        </div>
+        <div>
+          <h3 class="text-lg font-semibold text-gray-900 mb-3">Other Skills</h3>
+          <div class="flex flex-wrap gap-2">
+            <span class="px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm">Adaptability</span>
+            <span class="px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm">Time Management</span>
+            <span class="px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm">Teamwork</span>
+            <span class="px-3 py-1 bg-green-100 text-green-800 rounded-full text-sm">Problem Solving</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Experience -->
+    <div class="bg-white rounded-lg shadow-md p-8 mb-12">
+      <h2 class="text-2xl font-bold text-gray-900 mb-6 flex items-center">
+        <i class="fas fa-briefcase mr-3 text-blue-600"></i> Experience
+      </h2>
+      <div class="space-y-8">
+        <div class="border-l-4 border-blue-600 pl-4">
+          <h3 class="text-xl font-semibold text-gray-900">Software Developer | Intern</h3>
+          <p class="text-gray-700 font-medium">Techciti Software Pvt Ltd, Bengaluru</p>
+          <p class="text-gray-600 mb-3">Nov 2024 – Dec 2024</p>
+          <ul class="list-disc list-inside space-y-2 text-gray-700">
+            <li>Developed a Lung Cancer Prediction system using Python, Django, and Logistic Regression for accurate risk classification.</li>
+            <li>Integrated ReportLab to generate detailed PDF reports, enhancing usability and diagnostic clarity.</li>
+          </ul>
+        </div>
+        <div class="border-l-4 border-blue-600 pl-4">
+          <h3 class="text-xl font-semibold text-gray-900">Full Stack Developer | Intern</h3>
+          <p class="text-gray-700 font-medium">Vectorfab Private Limited, Hassan</p>
+          <p class="text-gray-600 mb-3">Jan 2022 – Jun 2022</p>
+          <ul class="list-disc list-inside space-y-2 text-gray-700">
+            <li>Developed a dynamic, dataset driven web application using JavaScript, HTML, CSS and MySQL.</li>
+            <li>Deployed the application on AWS, enabling secure remote access and cloud-based functionality.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <!-- Achievements -->
+    <div class="bg-white rounded-lg shadow-md p-8 mb-12">
+      <h2 class="text-2xl font-bold text-gray-900 mb-6 flex items-center">
+        <i class="fas fa-trophy mr-3 text-yellow-600"></i> Achievements
+      </h2>
+      <ul class="space-y-3">
+        <li class="flex items-start">
+          <i class="fas fa-award text-yellow-600 mt-1 mr-3"></i>
+          <span class="text-gray-700"><strong>Smart India Hackathon 2024 Finalist</strong> – Selected among the top teams nationally to develop a tech solution for real world problem posted by a government ministry.</span>
+        </li>
+        <li class="flex items-start">
+          <i class="fas fa-medal text-gray-600 mt-1 mr-3"></i>
+          <span class="text-gray-700"><strong>Runners-up</strong> in Hackathon held at Bengaluru City University during INNOVEX Fest 2025.</span>
+        </li>
+        <li class="flex items-start">
+          <i class="fas fa-medal text-yellow-600 mt-1 mr-3"></i>
+          <span class="text-gray-700"><strong>Winner</strong> of IT Quiz Event held at Siddaganga Institute of Technology during Zerone Fest 2025.</span>
+        </li>
+        <li class="flex items-start">
+          <i class="fas fa-medal text-yellow-600 mt-1 mr-3"></i>
+          <span class="text-gray-700"><strong>Winner</strong> of IT Quiz Event held at BMS Institute of Technology and Management during Technix 6.0 Fest 2025.</span>
+        </li>
+      </ul>
+    </div>
+
+    <!-- Certifications -->
+    <div class="bg-white rounded-lg shadow-md p-8 mb-12">
+      <h2 class="text-2xl font-bold text-gray-900 mb-6 flex items-center">
+        <i class="fas fa-certificate mr-3 text-blue-600"></i> Certifications
+      </h2>
+      <div class="grid md:grid-cols-2 gap-4">
+        <div class="flex items-start">
+          <i class="fas fa-check-circle text-green-600 mt-1 mr-3"></i>
+          <span class="text-gray-700">Linux Unhatched - Cisco</span>
+        </div>
+        <div class="flex items-start">
+          <i class="fas fa-check-circle text-green-600 mt-1 mr-3"></i>
+          <span class="text-gray-700">AWS Educate Introduction to Cloud 101</span>
+        </div>
+        <div class="flex items-start">
+          <i class="fas fa-check-circle text-green-600 mt-1 mr-3"></i>
+          <span class="text-gray-700">Responsive Web Design – freeCodeCamp</span>
+        </div>
+        <div class="flex items-start">
+          <i class="fas fa-check-circle text-green-600 mt-1 mr-3"></i>
+          <span class="text-gray-700">Postman API Fundamentals Student Expert</span>
+        </div>
+        <div class="flex items-start">
+          <i class="fas fa-check-circle text-green-600 mt-1 mr-3"></i>
+          <span class="text-gray-700">Tailwind CSS – Scrimba</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Hobbies & Languages -->
+    <div class="grid md:grid-cols-2 gap-8 mb-12">
+      <div class="bg-white rounded-lg shadow-md p-8">
+        <h2 class="text-2xl font-bold text-gray-900 mb-4 flex items-center">
+          <i class="fas fa-heart mr-3 text-red-600"></i> Hobbies
+        </h2>
+        <ul class="space-y-2 text-gray-700">
+          <li><i class="fas fa-plane mr-2 text-blue-600"></i> Travelling</li>
+          <li><i class="fas fa-film mr-2 text-blue-600"></i> Watching Documentaries</li>
         </ul>
-    </div>
-</nav>
-    <div class="container">
-        <h1 class="text-uppercase m-5">about me </h1>
-        <div class="row   m-5">
-            <div class="col-6">
-                <img class="cjImg rounded img-responsive" style="width:100%;  height: auto;" src="../assets/img/cj2.png" alt="CJ" />
-            </div>
-            <div class="col-6">
-                <h3>Chandan Jain H P</h3>
-                <h3>11/06/2002</h3>
-                <h4>7975703568</h4>
-                <p>
-                    3rd Cross
-                    <br>
-                    Behind B G S School
-                    <br>
-                    Vidyanagara Hassan
-                    <br>
-                    Vidyanagar (hassan),Alur,Hassan
-                    <br>
-                    573201
-
-                <div>
-
-                </div>
-                </p>
-            </div>
+      </div>
+      <div class="bg-white rounded-lg shadow-md p-8">
+        <h2 class="text-2xl font-bold text-gray-900 mb-4 flex items-center">
+          <i class="fas fa-language mr-3 text-purple-600"></i> Languages Known
+        </h2>
+        <div class="flex flex-wrap gap-2">
+          <span class="px-3 py-1 bg-purple-100 text-purple-800 rounded-full text-sm">English</span>
+          <span class="px-3 py-1 bg-purple-100 text-purple-800 rounded-full text-sm">Kannada</span>
+          <span class="px-3 py-1 bg-purple-100 text-purple-800 rounded-full text-sm">Hindi</span>
         </div>
+      </div>
     </div>
+  </div>
 
-<footer class="bg-white">
-    <div class="container py-5">
-        <div class="row py-4">
-            <div class="col-lg-4 col-md-6 mb-4 mb-lg-0"><img src="img/logo.png" alt="" width="180" class="mb-3">
-                <p class="font-italic text-muted"> follow me on </p>
-                <ul class="list-inline mt-4">
-                    <li class="list-inline-item"><a href="https://twitter.com/@chandanJainCJ2" title="twitter"><i
-                                class="fa fa-twitter"></i></a></li>
-                    <li class="list-inline-item"><a href="https://www.facebook.com/chandanjain.cj.3" title="facebook"><i
-                                class="fa fa-facebook"></i></a></li>
-                    <li class="list-inline-item"><a href="https://www.instagram.com/chandan_jain_cj"
-                            title="instagram"><i class="fa fa-instagram"></i></a></li>
-                </ul>
-            </div>
-            <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
-                <h6 class="text-uppercase font-weight-bold mb-4">service </h6>
-                <ul class="list-unstyled mb-0">
-                    <li class="mb-2"><a href="#" class="text-muted">React </a></li>
-                    <li class="mb-2"><a href="#" class="text-muted">front end </a></li>
-                    <li class="mb-2"><a href="#" class="text-muted">ux & ui</a></li>
-                    <li class="mb-2"><a href="#" class="text-muted">Photoshope</a></li>
-                </ul>
-            </div>
-            <div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
-                <h6 class="text-uppercase font-weight-bold mb-4">about</h6>
-                <ul class="list-unstyled mb-0">
-                    <li class="mb-2"><a href="#" class="text-muted">work</a></li>
-                    <li class="mb-2"><a href="#" class="text-muted">blog</a></li>
-
-                </ul>
-            </div>
-            <!-- <div class="col-lg-4 col-md-6 mb-lg-0">
-                    <h6 class="text-uppercase font-weight-bold mb-4">Newsletter</h6>
-                    <p class="text-muted mb-4"></p>
-                    <div class="p-1 rounded border">
-                        <div class="input-group">
-                            <input type="email" placeholder="Enter your email address" aria-describedby="button-addon1" class="form-control border-0 shadow-0">
-                            <div class="input-group-append">
-                            <button id="button-addon1" type="submit" class="btn btn-link"><i class="fa fa-paper-plane"></i></button>
-                            </div>
-                        </div> -->
+  <!-- Footer -->
+  <footer class="bg-white border-t">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div>
+          <h6 class="text-sm font-bold uppercase text-gray-800 mb-4">Follow Me On</h6>
+          <ul class="flex space-x-4 mt-4">
+            <li><a href="https://twitter.com/@chandanJainCJ2" class="text-gray-600 hover:text-blue-500" title="Twitter">
+              <i class="fab fa-twitter text-2xl"></i></a></li>
+            <li><a href="https://www.facebook.com/chandanjain.cj.3" class="text-gray-600 hover:text-blue-600" title="Facebook">
+              <i class="fab fa-facebook text-2xl"></i></a></li>
+            <li><a href="https://www.instagram.com/chandan_jain_cj" class="text-gray-600 hover:text-pink-600" title="Instagram">
+              <i class="fab fa-instagram text-2xl"></i></a></li>
+            <li><a href="https://github.com/YOUR-USERNAME" class="text-gray-600 hover:text-gray-900" title="GitHub">
+              <i class="fab fa-github text-2xl"></i></a></li>
+          </ul>
         </div>
-    </div>
-    </div>
-    </div>
-    <div class="bg-light py-4">
-        <div class="container text-center">
-            <p class="text-muted mb-0 py-2">© 2022 All rights reserved.</p>
+        <div>
+          <h6 class="text-sm font-bold uppercase text-gray-800 mb-4">Skills</h6>
+          <ul class="space-y-2">
+            <li><a href="#" class="text-gray-600 hover:text-gray-900">React & Node.js</a></li>
+            <li><a href="#" class="text-gray-600 hover:text-gray-900">Full Stack Development</a></li>
+            <li><a href="#" class="text-gray-600 hover:text-gray-900">UI/UX Design</a></li>
+            <li><a href="#" class="text-gray-600 hover:text-gray-900">MongoDB & MySQL</a></li>
+          </ul>
         </div>
+        <div>
+          <h6 class="text-sm font-bold uppercase text-gray-800 mb-4">Navigation</h6>
+          <ul class="space-y-2">
+            <li><a href="WORK.html" class="text-gray-600 hover:text-gray-900">Work & Projects</a></li>
+            <li><a href="BLOG.html" class="text-gray-600 hover:text-gray-900">Blog</a></li>
+            <li><a href="Chandan.html" class="text-gray-600 hover:text-gray-900">About Me</a></li>
+          </ul>
+        </div>
+      </div>
     </div>
-</footer>
+    <div class="bg-gray-100 py-4">
+      <div class="max-w-7xl mx-auto px-4 text-center">
+        <p class="text-gray-600 text-sm">© 2025 Chandan Jain H.P. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
+  <script>
+    document.getElementById('mobile-menu-btn').addEventListener('click', function() {
+      document.getElementById('mobile-menu').classList.toggle('hidden');
+    });
+  </script>
 </body>
 
 </html>
