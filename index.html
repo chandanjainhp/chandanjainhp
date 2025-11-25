@@ -15,8 +15,42 @@
 
 <body class="bg-gray-50">
 
+  <!-- Navigation -->
+  <nav class="bg-white/80 backdrop-blur-md fixed w-full top-0 z-50 border-b border-gray-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between h-14">
+        <div class="flex items-center">
+          <a href="#home" class="text-lg font-semibold text-black">Chandan Jain</a>
+        </div>
+        <div class="hidden md:flex items-center space-x-8">
+          <a href="#home" class="text-gray-600 hover:text-black text-sm font-medium transition-colors">Home</a>
+          <a href="#about" class="text-gray-600 hover:text-black text-sm font-medium transition-colors">About</a>
+          <a href="#skills" class="text-gray-600 hover:text-black text-sm font-medium transition-colors">Skills</a>
+          <a href="#experience" class="text-gray-600 hover:text-black text-sm font-medium transition-colors">Experience</a>
+          <a href="#projects" class="text-gray-600 hover:text-black text-sm font-medium transition-colors">Projects</a>
+          <a href="#contact" class="text-gray-600 hover:text-black text-sm font-medium transition-colors">Contact</a>
+        </div>
+        <div class="md:hidden flex items-center">
+          <button id="mobile-menu-btn" class="text-gray-600 hover:text-black" aria-label="Menu">
+            <i class="fas fa-bars text-xl"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div id="mobile-menu" class="hidden md:hidden bg-white border-t border-gray-200">
+      <div class="px-4 py-3 space-y-2">
+        <a href="#home" class="block py-2 text-gray-600 hover:text-black text-sm">Home</a>
+        <a href="#about" class="block py-2 text-gray-600 hover:text-black text-sm">About</a>
+        <a href="#skills" class="block py-2 text-gray-600 hover:text-black text-sm">Skills</a>
+        <a href="#experience" class="block py-2 text-gray-600 hover:text-black text-sm">Experience</a>
+        <a href="#projects" class="block py-2 text-gray-600 hover:text-black text-sm">Projects</a>
+        <a href="#contact" class="block py-2 text-gray-600 hover:text-black text-sm">Contact</a>
+      </div>
+    </div>
+  </nav>
+
   <!-- Hero Section -->
-  <section class="py-16 md:py-24">
+  <section id="home" class="pt-24 pb-16 md:pt-32 md:pb-24">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="grid md:grid-cols-2 gap-12 items-center">
         <div>
@@ -49,7 +83,7 @@
   </section>
 
   <!-- About Section -->
-  <section class="py-16 bg-white">
+  <section id="about" class="py-16 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-12 text-center">
         About Me
@@ -142,7 +176,7 @@
   </section>
 
   <!-- Skills Section -->
-  <section class="py-16">
+  <section id="skills" class="py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-12 text-center">
         Skills
@@ -181,7 +215,7 @@
   </section>
 
   <!-- Experience Section -->
-  <section class="py-16 bg-white">
+  <section id="experience" class="py-16 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-12 text-center">
         Experience
@@ -220,7 +254,7 @@
   </section>
 
   <!-- Projects Section -->
-  <section class="py-16">
+  <section id="projects" class="py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-12 text-center">
         Projects
@@ -321,7 +355,7 @@
   </section>
 
   <!-- Contact Section -->
-  <section class="py-16 bg-black">
+  <section id="contact" class="py-16 bg-black">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
       <h2 class="text-3xl md:text-4xl font-bold text-white mb-6">
         Get In Touch
@@ -363,6 +397,16 @@
     </div>
   </footer>
 
+  <script>
+    document.getElementById('mobile-menu-btn').addEventListener('click', function() {
+      document.getElementById('mobile-menu').classList.toggle('hidden');
+    });
+    document.querySelectorAll('#mobile-menu a').forEach(link => {
+      link.addEventListener('click', () => {
+        document.getElementById('mobile-menu').classList.add('hidden');
+      });
+    });
+  </script>
 
 </body>
 
