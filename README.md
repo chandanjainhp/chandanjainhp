@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm an **MCA student** at RV Institute of Technology and Management (CGPA: 7.73) with a passion for building **privacy-first web applications** and **data-driven systems**. I specialize in modern JavaScript stacks and Python, focusing on creating secure, maintainable solutions to real-world problems.
+I'm an **MCA student** at RV Institute of Technology and Management (CGPA: 8.15) with a passion for building **privacy-first web applications** and **data-driven systems**. I specialize in modern JavaScript stacks and Python, focusing on creating secure, maintainable solutions to real-world problems.
 
 **🏆 Smart India Hackathon 2024 — National Finalist**
 
