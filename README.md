@@ -1,9 +1,4 @@
-Sure 👍
-Below is a **professional GitHub `README.md`** crafted directly from your uploaded resume details. You can use this as your **GitHub profile README** or adapt it for a **main portfolio repository**.
 
-I’ve structured it to look clean, recruiter-friendly, and aligned with your skills and projects 
-
----
 
 # 👋 Hi, I'm Chandan Jain H P
 
