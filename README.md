@@ -2,7 +2,7 @@
 
 # 🚀 Chandan Jain H P
 
-### Full-Stack Developer | AI Enthusiast | Cloud Engineer
+### Full-Stack Developer | AI Enthusiast | Cloud Engineer | IoT Hobbyist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandanjainhp)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandanjainhp)
@@ -20,13 +20,13 @@
 const chandan = {
     location: "Bengaluru, India",
     education: "MCA Graduate (CGPA: 8.15/10)",
-    currentFocus: ["Full-Stack Development", "AI Integration", "Cloud Architecture"],
-    interests: ["Building Scalable Systems", "Open Source", "Technology Innovation"],
+    currentFocus: ["Full-Stack Development", "AI Integration", "Cloud Architecture", "IoT & Edge Computing"],
+    interests: ["Building Scalable Systems", "Open Source", "Technology Innovation", "Embedded Systems"],
     lookingFor: "Full-Stack Developer Roles & Collaborative Projects"
 };
 ```
 
-Master's graduate in Computer Applications with proven expertise in building production-ready applications. Passionate about creating secure, scalable systems that solve real-world problems through modern tech stacks and AI integration.
+Master's graduate in Computer Applications with proven expertise in building production-ready applications. Passionate about creating secure, scalable systems that solve real-world problems through modern tech stacks, AI integration, and hands-on IoT experimentation with devices like the Raspberry Pi 5.
 
 ---
 
@@ -74,6 +74,11 @@ Master's graduate in Computer Applications with proven expertise in building pro
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### IoT & Hardware
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi%205-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -139,7 +144,63 @@ Master's graduate in Computer Applications with proven expertise in building pro
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🔥 Fire Detection AI
+**Edge AI System on Raspberry Pi 5** 🚧 *In Progress*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandanjainhp/fire-detection-edge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi%205-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Tech Stack:** Python • TensorFlow Lite • MobileNetV2 • Flask • Pi Camera
+
+✨ **Highlights:**
+- **93.2% accuracy** with only 1.2MB model size (440× smaller than VGG16)
+- **82ms inference** on Raspberry Pi 4 — fully offline, no cloud needed
+- MobileNetV2 (α=0.35) with INT8 quantization for edge optimization
+- Live web dashboard via Flask served on-device
+- GPIO-triggered alerts; runs 32+ hrs on 20,000mAh battery
+- Deployable as a systemd service for 24/7 monitoring
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
+
+---
+
+## 🍓 IoT & Hardware — Raspberry Pi 5
+
+<div align="center">
+
+> *Bridging the gap between software and the physical world*
+
+</div>
+
+Working hands-on with the **Raspberry Pi 5** to explore edge computing, GPIO interfacing, and IoT system integration.
+
+### 🔌 What I'm Working With
+
+| Area | Details |
+|:-----|:--------|
+| **Board** | Raspberry Pi 5 (8GB) running Raspberry Pi OS (64-bit) |
+| **GPIO & Sensors** | Digital/analog sensor interfacing, I2C, SPI, UART protocols |
+| **Camera Module** | Raspberry Pi Camera Module v3 — image capture & streaming |
+| **Home Automation** | MQTT-based device control, remote monitoring dashboards |
+| **Edge AI** | Running lightweight ML models on-device using Python & TensorFlow Lite |
+| **Networking** | SSH remote access, Wi-Fi AP setup, local server hosting |
+
+### 🛠️ Pi Projects & Experiments
+
+- 🔥 **[Fire Detection AI](https://github.com/chandanjainhp/fire-detection-edge)** — 93.2% accurate, 1.2MB TFLite model running at 82ms on Pi 4 — fully offline edge inference with GPIO alerts
+- 📡 **IoT Sensor Dashboard** — Real-time sensor data visualization served via a local web server
+- 🎥 **Pi Camera Streaming** — Live video streaming over the local network using Python
+- 🏠 **Home Automation Node** — MQTT-connected smart device controller integrated with a web interface
+- 🧠 **Edge Inference** — Running image classification models locally on the Pi 5 without cloud dependency
 
 ---
 
@@ -192,6 +253,7 @@ opportunities:
   - Full-Stack Developer Roles
   - AI/ML Integration Projects
   - Cloud Architecture Positions
+  - IoT & Edge Computing Projects
   - Open Source Collaborations
   - Hackathons & Innovation Challenges
 ```
@@ -200,6 +262,7 @@ opportunities:
 
 ## 🌱 Beyond Code
 
+- 🍓 Tinkering with **Raspberry Pi 5** — sensors, cameras, and edge AI experiments
 - ✈️ Passionate traveler exploring new cultures
 - 📺 Science & technology documentary enthusiast
 - 🔧 Always experimenting with emerging tools and frameworks
