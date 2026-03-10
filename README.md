@@ -251,9 +251,9 @@ Working hands-on with the **Raspberry Pi 5** to explore edge computing, GPIO int
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandanjainhp&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chandanjainhp&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandanjainhp&layout=compact&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandanjainhp&layout=compact&theme=radical&langs_count=8&cache_seconds=1800)](https://github.com/chandanjainhp)
 
 </div>
 
