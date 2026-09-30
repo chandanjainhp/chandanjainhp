@@ -2,7 +2,7 @@
 
 # 🚀 Chandan Jain H P
 
-### AI Engineer | AI Enthusiast | Cloud Engineer | IoT Hobbyist
+### Full-Stack Developer | AI Engineer | Cloud Enthusiast | IoT Hobbyist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chandanjainhp)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandanjainhp)
@@ -21,14 +21,14 @@
 const chandan = {
     location: "Bengaluru, India",
     education: "MCA Graduate (CGPA: 8.15/10)",
-    currentFocus: ["Full-Stack Development", "AI/LLM Integration", "Cloud Architecture", "IoT & Edge Computing"],
-    interests: ["Building Scalable Systems", "Open Source", "Technology Innovation", "Embedded Systems"],
-    achievements: ["Smart India Hackathon 2024 Finalist", "2x IT Quiz Winner 2025"],
+    currentFocus: ["Full-Stack Development", "AI/LLM Integration", "Secure Systems", "Cloud & DevOps", "Edge AI"],
+    interests: ["Building Scalable Systems", "Applied Cryptography", "MCP & AI Tooling", "Embedded Systems"],
+    achievements: ["Smart India Hackathon 2024 Finalist", "Published Researcher (IJFMR 2025)", "2x IT Quiz Winner 2025"],
     lookingFor: "Software Engineer / Full-Stack / AI-Integrated Roles"
 };
 ```
 
-Master's graduate in Computer Applications with proven expertise in building production-ready applications. Passionate about creating secure, scalable systems that solve real-world problems through modern tech stacks, AI/LLM integration, and hands-on IoT experimentation with devices like the Raspberry Pi 5.
+MCA graduate who builds production-ready, secure applications end to end, from React/Next.js frontends and Node/FastAPI backends to Dockerised deployments and LLM integrations. I enjoy the space where AI, security, and real-world systems meet, and I tinker with edge AI on a Raspberry Pi 5 in my spare time.
 
 ---
 
@@ -39,7 +39,7 @@ Master's graduate in Computer Applications with proven expertise in building pro
 <td width="50%">
 
 **Master of Computer Applications**  
-🏛️ RV Institute of Technology and Management  
+🏛️ RV Institute of Technology and Management, Bengaluru  
 📅 2023 – 2025  
 📊 CGPA: 8.15/10
 
@@ -61,42 +61,48 @@ Master's graduate in Computer Applications with proven expertise in building pro
 
 <div align="center">
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Databases
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+
+### Databases & Queues
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2_/_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### AI & ML
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter_API-6467F2?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### IoT & Hardware
+### IoT & Tools
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi%205-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-
-### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 </div>
@@ -108,21 +114,56 @@ Master's graduate in Computer Applications with proven expertise in building pro
 ### 🔬 Software Developer Intern
 **Techciti Software Pvt Ltd** | Bengaluru | *Nov 2024 – Dec 2024*
 
-- 🏥 Built a **Lung Cancer Prediction System** using Django and Logistic Regression, achieving accurate risk classification on clinical datasets
-- 📄 Automated medical report generation using **ReportLab**, producing downloadable PDF reports delivered directly to end users
-- 🤝 Collaborated with a cross-functional team of 4, following **Agile sprints** and delivering features on schedule
+- 🏥 Built a full-stack **lung cancer risk prediction application** on **FastAPI and SQLAlchemy 2**, serving 22 clinical features through a **Logistic Regression** model with **JWT authentication**, per-IP rate limiting, and **Pydantic v2** request validation
+- 📄 Designed an end-to-end pipeline covering data preprocessing, model training at app startup, insurance premium estimation, doctor recommendation, and **WeasyPrint** PDF report generation, returning diagnostic reports in **under 10 seconds**
 
 ### 🌐 Full Stack Developer Intern
 **Vectorfab Private Limited** | Hassan | *Jan 2022 – Jun 2022*
 
-- 💾 Developed a dynamic, dataset-driven web application using **JavaScript, HTML, CSS, and MySQL**, reducing manual data entry by ~40%
-- ☁️ Deployed the application on **AWS EC2**, configuring VPC and Security Groups for secure remote access and cloud-based functionality
+- 💾 Built the complete user-facing **CRUD interface** in JavaScript, HTML5, and CSS3, cutting manual data entry by **40%** for **50+ daily users**
+- 🗄️ Designed and optimised a **MySQL** schema supporting **10,000+ records** with indexed queries, improving data retrieval speed by **30%**
+- ☁️ Deployed on **AWS EC2** with VPC and Security Group configuration
 
 ---
 
 ## 🚀 Featured Projects
 
 <table>
+<tr>
+<td width="50%">
+
+### 🛡️ Sentinel
+**AI-Powered Industrial Site Monitoring Platform**
+
+[![Live](https://img.shields.io/badge/Live-sentinel.chandanjainhp.in-success?style=for-the-badge)](https://sentinel.chandanjainhp.in)
+
+**Tech Stack:** Next.js • React • Bun • Express • MongoDB • Redis • BullMQ • Claude API
+
+✨ **Highlights:**
+- Turns overnight sensor events into automated incident investigations and executive morning briefings
+- Processes 10+ events nightly
+- Secure event-ingestion APIs, JWT auth, and role-based access control
+- BullMQ background processing
+- Deployed with Docker and Cloudflare Tunnel
+
+</td>
+<td width="50%">
+
+### 🔐 Secure Bridge
+**Encrypted AI Messaging Platform**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandanjainhp/secure-bridge)
+
+**Tech Stack:** React • Node.js • Express • MongoDB • Redis • WebAssembly
+
+✨ **Highlights:**
+- JWT authentication, OTP verification, and project-based workspaces
+- Secure BYOK API-key management with **AES-256-GCM** encryption
+- **OpenFHE**-based Fully Homomorphic Encryption via WebAssembly
+- MCP integrations, API usage tracking, rate limiting, and service limits on Redis + MongoDB
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
@@ -138,55 +179,43 @@ Master's graduate in Computer Applications with proven expertise in building pro
 - Project-based prompt control & API key management
 - JWT authentication & quota enforcement
 - Persistent conversation storage
-- Production-deployed on cloud infrastructure
 
 </td>
-<td width="50%">
-
-### 🏫 Teacher Management System
-**Full-Stack MERN Application**
-
-**Tech Stack:** MongoDB • Express • React • Node.js • Docker
-
-✨ **Highlights:**
-- Role-based access control (Admin/User) with JWT
-- CSV bulk upload & department-specific data processing
-- Real-time feedback & dynamic data visualisation
-- Academic performance tracking dashboards
-- **Containerised with Docker** for consistent deployments
-
-</td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🔥 Fire Detection AI
 **Edge AI System on Raspberry Pi 5** 🚧 *In Progress*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandanjainhp/fire-detection-edge)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi%205-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Tech Stack:** Python • TensorFlow Lite • MobileNetV2 • Flask • Pi Camera
 
 ✨ **Highlights:**
-- **93.2% accuracy** with only 1.2MB model size (440× smaller than VGG16)
-- **82ms inference** on Raspberry Pi 4 — fully offline, no cloud needed
-- MobileNetV2 (α=0.35) with INT8 quantization for edge optimization
-- Live web dashboard via Flask served on-device
-- GPIO-triggered alerts; runs 32+ hrs on 20,000mAh battery
-- Deployable as a systemd service for 24/7 monitoring
-
-</td>
-<td width="50%">
+- **93.2% accuracy** with a 1.2MB model (440× smaller than VGG16)
+- **82ms inference** on Raspberry Pi 4, fully offline
+- INT8 quantisation, GPIO-triggered alerts, live Flask dashboard
+- Runs 32+ hrs on a 20,000mAh battery; deployable as a systemd service
 
 </td>
 </tr>
 </table>
 
+<details>
+<summary><b>More projects</b></summary>
+
+- 🏫 **Teacher Management System** (MongoDB, Express, React, Node.js, Docker): role-based access with JWT, CSV bulk upload, academic performance dashboards, containerised deployment
+
+</details>
+
 ---
 
-## 🍓 IoT & Hardware — Raspberry Pi 5
+## 📄 Publication
+
+- **AI chat integration with MCP and homomorphic encryption**, *IJFMR*, Vol 7, Issue 6, Nov 2025
+
+---
+
+## 🍓 IoT & Hardware: Raspberry Pi 5
 
 <div align="center">
 
@@ -194,26 +223,14 @@ Master's graduate in Computer Applications with proven expertise in building pro
 
 </div>
 
-Working hands-on with the **Raspberry Pi 5** to explore edge computing, GPIO interfacing, and IoT system integration.
-
-### 🔌 What I'm Working With
-
 | Area | Details |
 |:-----|:--------|
 | **Board** | Raspberry Pi 5 (8GB) running Raspberry Pi OS (64-bit) |
-| **GPIO & Sensors** | Digital/analog sensor interfacing, I2C, SPI, UART protocols |
-| **Camera Module** | Raspberry Pi Camera Module v3 — image capture & streaming |
+| **GPIO & Sensors** | Digital/analog sensor interfacing, I2C, SPI, UART |
+| **Camera Module** | Pi Camera Module v3: image capture & streaming |
 | **Home Automation** | MQTT-based device control, remote monitoring dashboards |
-| **Edge AI** | Running lightweight ML models on-device using Python & TensorFlow Lite |
+| **Edge AI** | Lightweight ML on-device with Python & TensorFlow Lite |
 | **Networking** | SSH remote access, Wi-Fi AP setup, local server hosting |
-
-### 🛠️ Pi Projects & Experiments
-
-- 🔥 **[Fire Detection AI](https://github.com/chandanjainhp/fire-detection-edge)** — 93.2% accurate, 1.2MB TFLite model running at 82ms on Pi 4 — fully offline edge inference with GPIO alerts
-- 📡 **IoT Sensor Dashboard** — Real-time sensor data visualization served via a local web server
-- 🎥 **Pi Camera Streaming** — Live video streaming over the local network using Python
-- 🏠 **Home Automation Node** — MQTT-connected smart device controller integrated with a web interface
-- 🧠 **Edge Inference** — Running image classification models locally on the Pi 5 without cloud dependency
 
 ---
 
@@ -225,8 +242,8 @@ Working hands-on with the **Raspberry Pi 5** to explore edge computing, GPIO int
 |:--------------|:---------|:--------|
 | **🇮🇳 National Finalist** | Smart India Hackathon | 2024 |
 | **🥈 Runner-up** | INNOVEX Fest Hackathon, Bengaluru City University | 2025 |
-| **🥇 Winner** | IT Quiz, Siddaganga Institute of Technology — Zerone Fest | 2025 |
-| **🥇 Winner** | IT Quiz, BMS Institute of Technology — Technix 6.0 | 2025 |
+| **🥇 Winner** | IT Quiz, Siddaganga Institute of Technology, Zerone Fest | 2025 |
+| **🥇 Winner** | IT Quiz, BMS Institute of Technology, Technix 6.0 | 2025 |
 
 </div>
 
@@ -237,11 +254,11 @@ Working hands-on with the **Raspberry Pi 5** to explore edge computing, GPIO int
 <details>
 <summary><b>View All Certifications</b></summary>
 
-- ✅ AWS Educate: Introduction to Cloud 101 — Amazon Web Services (2024)
-- ✅ Linux Unhatched — Cisco Networking Academy (2025)
+- ✅ AWS Educate: Introduction to Cloud 101, Amazon Web Services (2024)
+- ✅ Linux Unhatched, Cisco Networking Academy (2025)
 - ✅ Postman API Fundamentals Student Expert (2024)
-- ✅ Responsive Web Design — freeCodeCamp
-- ✅ Tailwind CSS — Scrimba
+- ✅ Responsive Web Design, freeCodeCamp
+- ✅ Tailwind CSS, Scrimba
 
 </details>
 
@@ -265,7 +282,7 @@ Working hands-on with the **Raspberry Pi 5** to explore edge computing, GPIO int
 opportunities:
   - Software Engineer / Full-Stack Developer Roles
   - AI/LLM Integration Projects
-  - Cloud Architecture Positions
+  - Cloud & DevOps Positions
   - IoT & Edge Computing Projects
   - Open Source Collaborations
   - Hackathons & Innovation Challenges
@@ -275,10 +292,9 @@ opportunities:
 
 ## 🌱 Beyond Code
 
-- 🍓 Tinkering with **Raspberry Pi 5** — sensors, cameras, and edge AI experiments
+- 🍓 Tinkering with **Raspberry Pi 5**: sensors, cameras, and edge AI experiments
 - ✈️ Passionate traveler exploring new cultures
 - 📺 Science & technology documentary enthusiast
-- 🔧 Always experimenting with emerging tools and frameworks
 - 🤝 Active in tech communities and knowledge sharing
 
 ---
